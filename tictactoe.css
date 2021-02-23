@@ -1,0 +1,53 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#caption {
+    margin-top: 0.2cm;
+    margin-bottom: 0.4cm;
+    font-size: 30px;
+    font-weight: bold;
+}
+.box{
+    background-color: rgb(209, 243, 243);
+}
+.box:hover{
+    background-color: rgb(114, 230, 230);
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 10cm;
+    height: 3cm;
+    font-size: 1cm;
+    padding: 0px;
+}
+
+#print {
+    text-align: center;
+    font-size: 25px;
+}
+#button{
+    justify-content: center;
+    text-align: center;
+    margin-top: 0.5cm;
+}
+#reset{
+    background-color: rgb(209, 243, 243);
+    color: rgb(0, 0, 0);
+    border-collapse: collapse;
+    border: 1.5px solid rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 7px;
+}
+#reset:hover{
+    
+    background-color: rgb(114, 230, 230);
+    color: rgb(0, 0, 0);
+}
