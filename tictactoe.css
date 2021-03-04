@@ -6,7 +6,7 @@ table {
 .font {
   margin-top: 0.2em;
   margin-bottom: 0.4em;
-  font-size: 5rem;
+  font-size: 2.7rem;
   font-weight: bold;
 }
 
@@ -23,7 +23,7 @@ input {
   border-collapse: collapse;
   font-size: 30px;
   text-align: center;
-  padding: 0.5rem;
+  padding: 0.1em;
 }
 
 #one,
@@ -35,9 +35,10 @@ input {
 #seven,
 #eight,
 #nine {
-  font-size: 5rem;
-  width: 5cm;
-  height: 5cm;
+  font-size: 3rem;
+  width: 2cm;
+  height: 2cm;
+  padding: 0.5em;
 }
 #button {
   text-align: center;
@@ -48,9 +49,9 @@ input {
   color: rgb(0, 0, 0);
   border-collapse: collapse;
   border: 1px solid rgb(0, 0, 0);
-  font-size: 3rem;
-  margin: 0.5em 0 0 0;
-  padding: 10px;
+  font-size: 1.5rem;
+  margin: 0.2em 0 0 0;
+  padding: 0.4em;
   border-radius: 7px;
 }
 #reset:hover {
