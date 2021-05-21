@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This Game is created by Using Html, Css and JavaScript.
+I created Tic-Tac-Toe multiplayer mini-game using HTML, CSS and JAVASCRIPT.
