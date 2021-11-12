@@ -1,0 +1,59 @@
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.font {
+  margin-top: 0.2em;
+  margin-bottom: 0.4em;
+  font-size: 2.7rem;
+  font-weight: bold;
+}
+
+.box {
+  background-color: rgb(155, 229, 229);
+}
+.box:hover {
+  background-color: rgb(134, 196, 221);
+}
+table,
+th,
+td,
+input {
+  border-collapse: collapse;
+  font-size: 30px;
+  text-align: center;
+  padding: 0.1em;
+}
+
+#one,
+#two,
+#three,
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine {
+  font-size: 3rem;
+  width: 2cm;
+  height: 2cm;
+  padding: 0.5em;
+}
+#button {
+  text-align: center;
+  margin-top: 0.5em;
+}
+#reset {
+  background-color: rgb(209, 243, 243);
+  color: rgb(0, 0, 0);
+  border-collapse: collapse;
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 1.5rem;
+  margin: 0.2em 0 0 0;
+  padding: 0.4em;
+  border-radius: 7px;
+}
+#reset:hover {
+  background-color: rgb(114, 230, 230);
+}
